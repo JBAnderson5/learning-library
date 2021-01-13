@@ -127,17 +127,19 @@ Generating the Application domain URL
 
   The url you will need to type into your browser's search bar should look like this:
 
-  ```
-https://<public IP address>:4430/siebel/app/<industry>/enu
-```
+    ```
+    https://<public IP address>:4430/siebel/app/<industry>/enu
+    ```
 
   For example, if you selected Sales, your application URL for Sales industry  could be the following.
-
+  
+    ```
     https://111.111.111.11:4430/siebel/app/sales/enu
+    ```
 
-    **NOTE:** Make sure your url has ***"https"*** and not ***"http"*** at the beginning of it otherwise you will not obtain access
+  **NOTE:** Make sure your url has ***"https"*** and not ***"http"*** at the beginning of it otherwise you will not obtain access
 
-    ![Type the appropriate url into the firefox searchbar](./images/blast.png " ")
+  ![Type the appropriate url into the firefox searchbar](./images/blast.png " ")
 
 2. When accessing the url you may come across a "Potential Security Risk" warning message
 
