@@ -22,7 +22,7 @@ Estimated Lab Time: 15 minutes
 
     ![Use the dropdown menu located in the upper lefthand corner to select instances](./images/dropdown_compute_instance.png " ")
 
-3. You are now on the **Instances** page. Make sure that you have the compartment you created in the "Setup" lab selected. 
+3. You are now on the **Instances** page. Make sure that you have the compartment you created in the "Setup" lab selected.
 
     ![List scope compartment portion](./images/correct_compartment.png " ")
 
@@ -41,7 +41,7 @@ Estimated Lab Time: 15 minutes
 1. Use the dropdown menu located in the upper lefthand corner of the screen and select **Networking** then **Virtual Cloud Networks**.
     ![Navigate to compartments using the dropdown menu](./images/dropdown_networking_vcn.png " ")
 
-2. You will now see you are in the **Virtual Cloud Networks** page. Make sure that you have the compartment you created in the "Setup" lab selected. 
+2. You will now see you are in the **Virtual Cloud Networks** page. Make sure that you have the compartment you created in the "Setup" lab selected.
     ![](./images/correct_compartment.png " ")
 
 3. You shoud now be able to se the VCN that you created in the "Setup" lab.
@@ -60,7 +60,7 @@ Estimated Lab Time: 15 minutes
 
     After all the resouces have terminated the VCN itself will terminate and you may then click the close button.
 
-## **STEP 3:** Deleting the Siebel Compartment 
+## **STEP 3:** Deleting the Siebel Compartment
 
 1.  Use the dropdown menu located in the upper lefthand corner of the screen and select **Identity** then **Compartments**.
 
