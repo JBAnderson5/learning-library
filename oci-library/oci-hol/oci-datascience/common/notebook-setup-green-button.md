@@ -40,9 +40,9 @@ In this lab, you:
 1. Select a VM shape. The [Compute Shapes](https://docs.cloud.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm) page has details on the specifications. In this lab, it is suggested a VM.Standard2.4 or larger is used.
 1. Enter the block volume in GB. The suggested size is 100 Gb or larger.
 1. Confirm that the compartment for the VCN is the same as the one that is listed in the **Workshop Details** section at the top of the instructions page. If not, change it to that compartment.
-1. Confirm that the VCN is the one assigned to your account. It should be prefix with the same code as the compartment. For example, if your compartment is ``LL####-COMPARTMENT`` the VCN must be ``LL####-VCN``.
+1. Confirm that the VCN is the one assigned to your account. It should be prefix with the same code as the compartment. For example, if your compartment is ``LL####-COMPARTMENT`` the VCN must be ``Data Science VCN``.
 1. Confirm that the compartment for the subnet is the same as the one that is listed in the **Workshop Details** section at the top of the instructions page. If not, change it to that compartment.
-1. Confirm that the subnet is the one assigned to your account. It should be prefix with the same code as the compartment. For example, if your compartment is ``LL####-COMPARTMENT`` the subnet must be ``LL####-Subnet-Private``.
+1. Confirm that the subnet is the one assigned to your account. It should be prefix with the same code as the compartment. For example, if your compartment is ``LL####-COMPARTMENT`` the subnet must be ``Data Science - Private``.
 1. (Optional) Add tags to the notebook session by selecting a tag namespace, then entering the key and the value. You can add more tags to the compartment by clicking **+Additional Tags**, see [Working with Resource Tags](https://docs.cloud.oracle.com/iaas/Content/General/Concepts/resourcetags.htm#workingtags).
 1. (Optional) View the details for your notebook session immediately after creation by selecting **VIEW DETAIL PAGE ON CLICKING CREATE.**. 
 1. Click **Create**.
@@ -90,6 +90,6 @@ You can *proceed to the next lab*.
     * [John Peach](https://www.linkedin.com/in/jpeach/), Principal Data Scientist, November 2020
 
 ## Need Help?
-Please submit feedback or ask for help using our [LiveLabs Support Forum](https://community.oracle.com/tech/developers/categories/oracle-cloud-infrastructure-fundamentals). Please click the **Log In** button and login using your Oracle Account. Click the **Ask A Question** button to the left to start a *New Discussion* or *Ask a Question*.  Please include your workshop name and lab name.  You can also include screenshots and attach files.  Engage directly with the author of the workshop.
+Please submit feedback or ask for help using our [LiveLabs Support Forum](https://community.oracle.com/tech/developers/categories/data-science). Please click the **Log In** button and login using your Oracle Account. Click the **Ask A Question** button to the left to start a *New Discussion* or *Ask a Question*.  Please include your workshop name and lab name.  You can also include screenshots and attach files.  Engage directly with the author of the workshop.
 
 If you do not have an Oracle Account, click [here](https://profile.oracle.com/myprofile/account/create-account.jspx) to create one.
